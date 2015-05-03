@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1430619083 source:/home/samuel/project/calculatrice/calculatrice/main.cpp
+	<iostream>
+	<cstdlib>
+	"functions.h"
+
+1430618922 /home/samuel/project/calculatrice/calculatrice/functions.h
+	<iostream>
+
